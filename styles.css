@@ -1,0 +1,15 @@
+body {
+  color:black;
+}
+
+.navbar {
+  padding 1rem;
+  background-color:orange;
+}
+
+.hero-background-img {
+  background-image: url("file-name.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
